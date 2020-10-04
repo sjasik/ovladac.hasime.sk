@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9975aad7e0990b086ef2b84a11ffd50c.js"
+  "/precache-manifest.749b79cce52ea0ac521fbb9dac8bb89d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vyhlasit"});
